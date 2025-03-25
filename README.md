@@ -1,3 +1,3 @@
 # trial_website
 
-het-loves-charmy.netlify.app
+Link to the website - [link](het-loves-charmy.netlify.app)
